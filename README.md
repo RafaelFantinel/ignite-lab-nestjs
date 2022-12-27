@@ -6,7 +6,7 @@
       <img alt="Rafael Fantinel" src="https://img.shields.io/badge/Rafael%20Fantinel-Linkedin-brightgreen" />
      </a>
      <a href="https://github.com/RafaelFantinel">
-       <img alt="License" src=" https://img.shields.io/static/v1?label=RafaelFantinel&message=%20&color=f5f5f5&logo=github">
+       <img alt="Github" src="https://img.shields.io/static/v1?label=RafaelFantinel&message=%20&color=f5f5f5&logo=github">
      </a>
       <img alt="License" src="https://img.shields.io/badge/license-MIT-01B755">
      </a>
